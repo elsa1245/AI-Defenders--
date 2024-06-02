@@ -5,6 +5,8 @@
 - Bienvenue à la présentation de "صوت القانون : Chatbot Juridique Intelligent".
 - Ce projet vise à rendre l'information juridique accessible à tous les citoyens marocains en utilisant l'intelligence artificielle.
 - Découvrez comment notre chatbot révolutionne l'accès à la justice au Maroc.
+  
+    Ce projet a été réalisé dans le cadre de la compétition MDFDS (Moroccan Days of Future Data Scientists). "صوت القانون" est un chatbot juridique intelligent développé pour améliorer l'accès aux informations juridiques au Maroc. Il utilise l'intelligence artificielle, en particulier le modèle Gemini Pro 1.5, pour répondre aux questions des utilisateurs concernant les lois marocaines. Le chatbot peut comprendre et répondre en arabe, rendant l'information juridique plus accessible et compréhensible pour tous les citoyens marocains.
 
 ## Objectifs
 
