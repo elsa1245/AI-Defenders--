@@ -40,6 +40,6 @@
 
 ## Instructions pour Exécuter le Projet
 
-1. Clonez ce dépôt : `git clone https://github.com/AI-Defenders/AI-Defenders-صوت القانون.git`
+1. Clonez ce dépôt : `git clone https://github.com/AI-Defenders--.git`
 2. Installez les dépendances : `pip install -r requirements.txt`
 3. Exécutez l'application : `streamlit run app.py`
