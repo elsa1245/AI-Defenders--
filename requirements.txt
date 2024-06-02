@@ -1,0 +1,5 @@
+ streamlit
+ SpeechRecognition
+ google-generativeai
+pygame
+gtts
