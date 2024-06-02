@@ -7,11 +7,12 @@
 
 ## Introduction
 
-- Bienvenue à la présentation de "صوت القانون : Chatbot Juridique Intelligent".
+- Bienvenue à la présentation de "<span style="color:blue">صوت القانون</span> : Chatbot Juridique Intelligent".
 - Ce projet vise à rendre l'information juridique accessible à tous les citoyens marocains en utilisant l'intelligence artificielle.
 - Découvrez comment notre chatbot révolutionne l'accès à la justice au Maroc.
   
-    Ce projet a été réalisé dans le cadre de la compétition MDFDS (Moroccan Days of Future Data Scientists). "صوت القانون" est un chatbot juridique intelligent développé pour améliorer l'accès aux informations juridiques au Maroc. Il utilise l'intelligence artificielle, en particulier le modèle Gemini Pro 1.5, pour répondre aux questions des utilisateurs concernant les lois marocaines. Le chatbot peut comprendre et répondre en ** arabe et ** Moroccan DARIJA, rendant l'information juridique plus accessible et compréhensible pour tous les citoyens marocains.
+    Ce projet a été réalisé dans le cadre de la compétition MDFDS (Moroccan Days of Future Data Scientists). "<span style="color:blue">صوت القانون</span>" est un chatbot juridique intelligent développé pour améliorer l'accès aux informations juridiques au Maroc. Il utilise l'intelligence artificielle, en particulier le modèle Gemini Pro 1.5, pour répondre aux questions des utilisateurs concernant les lois marocaines. Le chatbot peut comprendre et répondre en <kbd style="background-color:yellow;color:black">arabe et Moroccan DARIJA</kbd>, rendant l'information juridique plus accessible et compréhensible pour tous les citoyens marocains.
+
 
 ## Objectifs
 
@@ -27,7 +28,7 @@
 
 ## Solution Basée sur l'IA
 
-- Le chatbot "صوت القانون" utilise le modèle d'intelligence artificielle Gemini Pro 1.5 pour répondre aux questions des utilisateurs sur les lois marocaines.
+- Le chatbot "<span style="color:blue">صوت القانون</span>" utilise le modèle d'intelligence artificielle Gemini Pro 1.5 pour répondre aux questions des utilisateurs sur les lois marocaines.
 - Il se base sur un fichier PDF contenant des lois spécifiques :
   - La loi sur la carte nationale.
   - La loi n° 49.16 relative à la location des biens immobiliers à usage commercial, industriel ou artisanal.
